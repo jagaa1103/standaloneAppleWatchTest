@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0720"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "114525411C91576800A5AAC3"
+               BuildableName = "standaloneAppleWatchTest WatchKit App.app"
+               BlueprintName = "standaloneAppleWatchTest WatchKit App"
+               ReferencedContainer = "container:standaloneAppleWatchTest.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "114525501C91576900A5AAC3"
+               BuildableName = "standaloneAppleWatchTest WatchKit Extension.appex"
+               BlueprintName = "standaloneAppleWatchTest WatchKit Extension"
+               ReferencedContainer = "container:standaloneAppleWatchTest.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "114525191C91576800A5AAC3"
+               BuildableName = "standaloneAppleWatchTest.app"
+               BlueprintName = "standaloneAppleWatchTest"
+               ReferencedContainer = "container:standaloneAppleWatchTest.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <Testables>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "114525411C91576800A5AAC3"
+            BuildableName = "standaloneAppleWatchTest WatchKit App.app"
+            BlueprintName = "standaloneAppleWatchTest WatchKit App"
+            ReferencedContainer = "container:standaloneAppleWatchTest.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.carousel"
+         RemotePath = "/standaloneAppleWatchTest WatchKit App">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "114525411C91576800A5AAC3"
+            BuildableName = "standaloneAppleWatchTest WatchKit App.app"
+            BlueprintName = "standaloneAppleWatchTest WatchKit App"
+            ReferencedContainer = "container:standaloneAppleWatchTest.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "114525411C91576800A5AAC3"
+            BuildableName = "standaloneAppleWatchTest WatchKit App.app"
+            BlueprintName = "standaloneAppleWatchTest WatchKit App"
+            ReferencedContainer = "container:standaloneAppleWatchTest.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.carousel"
+         RemotePath = "/standaloneAppleWatchTest WatchKit App">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "114525411C91576800A5AAC3"
+            BuildableName = "standaloneAppleWatchTest WatchKit App.app"
+            BlueprintName = "standaloneAppleWatchTest WatchKit App"
+            ReferencedContainer = "container:standaloneAppleWatchTest.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "114525411C91576800A5AAC3"
+            BuildableName = "standaloneAppleWatchTest WatchKit App.app"
+            BlueprintName = "standaloneAppleWatchTest WatchKit App"
+            ReferencedContainer = "container:standaloneAppleWatchTest.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
